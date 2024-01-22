@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538148150520",
+    "project_id": "pw-f-socialmediaapp",
+    "storage_bucket": "pw-f-socialmediaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538148150520:android:20caec62f3fbc252272f0d",
+        "android_client_info": {
+          "package_name": "com.example.pw_socialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzp48-fbL45Xbe0JGYkW_xbV8QrrrmHT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
